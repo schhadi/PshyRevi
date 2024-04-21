@@ -30,9 +30,6 @@ For any technical issues, suggestions, or inquiries, you can reach out via email
 ## Contributing
 Contributions to the SAQ Psychology Quiz App are welcome. If you have suggestions to improve the app or want to add more questions and features, please fork this repository and submit a pull request, or send us an email.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file in this repository for details.
-
 ---
 
 Enjoy using the SAQ Psychology Quiz App to boost your understanding of psychology in an interactive and engaging way!
