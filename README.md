@@ -1,7 +1,7 @@
 # SAQ Psychology Quiz App
 
 ## Overview
-The SAQ Psychology Quiz App is an educational tool designed to help students learn and review concepts related to psychology, particularly in the domain of biological approaches to understanding human behavior. The application utilizes a graphical user interface (GUI) powered by the `tkinter` library and offers a range of interactive features to enhance learning through engagement.
+The SAQ Psychology Quiz App is for the **International Baccalaureate** program that is a tool designed to help students learn and review concepts related to psychology. The application utilizes a graphical user interface (GUI) powered by the `tkinter` library and offers a range of interactive features to enhance learning through engagement.
 
 ## Features
 - **Random Question Generator**: Dynamically shuffles and presents psychology questions from a predefined list.
