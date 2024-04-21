@@ -14,7 +14,7 @@ To run the SAQ Psychology Quiz App, you need:
 - `tkinter` library for Python, which is typically included in standard Python installations.
 
 ## Installation
-1. Download the `SAQ_Psychology_Quiz_App.exe` executable from this repository.
+1. Download the `SAQ Revision.exe` executable from this repository.
 2. Run the executable file on a Windows machine. No additional installation or configuration is required.
 
 ## Usage
